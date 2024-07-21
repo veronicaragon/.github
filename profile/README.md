@@ -1,9 +1,5 @@
 # Welcome 👩‍💻🚀
 Hello, fellow explorers of the digital realm! 🌐 Welcome to the official GitHub Organization of Veronica Aragon, where code meets creativity and learning never stops.
-Here, you'll find a treasure trove of coding adventures and projects born out of passion and dedication.
-
-## Projects Showcase 🚀
-Explore the corridors of my coding universe through my fascinating projects.
 
 ## How to Navigate
   - **Explore Repositories:** Each project resides in its dedicated repository. Dive into the folders, explore the code, and witness the evolution of ideas.
