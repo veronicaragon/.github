@@ -15,7 +15,3 @@ Let's connect and discuss the magic of coding, technology, and everything in bet
   [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/veronicaaragon)
   
   [![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/veronicaragon/)
-    
-## Acknowledgments 🙏 
-A heartfelt thank you to everyone who has been part of this coding odyssey.
-Together, we code, learn, and build a brighter digital future. Happy coding! 🚀✨
