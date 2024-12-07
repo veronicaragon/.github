@@ -15,7 +15,7 @@ I'm a bilingual (English/Spanish), first-gen student currently pursuing my Bache
   - Achieved 71% accuracy in identifying response accuracy categories
   - Advanced text preprocessing including lemmatization and stop word removal
   - Comprehensive data analysis and visualization
-  - [Link to Project Repository]([https://github.com/veronicaragon/Roo-Classification-AI-Studio]))
+  - ([https://github.com/veronicaragon/Roo-Classification-AI-Studio])
 
 ### Predicting Generosity Using World Happiness Data 🌟
 - **Overview:** A machine learning project achieving 85% prediction accuracy in binary classification
