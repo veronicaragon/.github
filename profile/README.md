@@ -1,9 +1,8 @@
-# Welcome to Veronica Aragon's Engineering Hub 👩‍💻🚀
-
-Hello, world! 🌐
+# Welcome 👩‍💻
 
 ## About Me
-I'm a first-gen student currently pursuing my Bachelor's in Computer Science.
+
+Hello, world! 🌐 I'm a first-gen student currently pursuing my Bachelor's in Computer Science.
 
 ## Featured Projects 💻
 
